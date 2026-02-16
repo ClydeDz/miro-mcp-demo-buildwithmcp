@@ -4,7 +4,7 @@
 - [Competition video submission](https://x.com/ClydeDz/status/2023410504753111181)
 
 ## Design research interview transcript
-I've used Google Gemini to generate the transcript for a fictional design research interview. In a real world, this would be a recorded video which can be auto-transcribed using AI.
+I've used Google Gemini to generate the transcript for a fictional design research interview. In a real world, this would be a recorded video which can be auto-transcribed using AI. 
 
 <details>
   <summary>Click to expand and view the prompt</summary>
@@ -35,6 +35,9 @@ To automate further, we can use VS Code / CoPilot prompt file to provide all the
 
 The prompt file used in this video example can be [found here](./.github/prompts/transcript-to-miro-flowchart.prompt.md).
 
+## Miro Flowchart output 
+The output produced might look something like the picture below. It generates a flowchart for the existing user onboarding workflow and also the new user onboarding workflow that the user is recommending.    
+![Copy of Miro MCP demo](https://github.com/user-attachments/assets/b36e0910-f9a8-41e5-b582-2eb7c199c316)
 
 
 
